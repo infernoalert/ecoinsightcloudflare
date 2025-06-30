@@ -1,0 +1,16 @@
+{
+  "name": "ecoinsight",
+  "version": "1.0.0",
+  "description": "EcoInsight - Understanding the Future of Electrical Design",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "wrangler pages deploy .",
+    "dev": "wrangler pages dev ."
+  },
+  "keywords": ["electrical-design", "research", "ncc-2022"],
+  "author": "Payam Amerian",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+} 
