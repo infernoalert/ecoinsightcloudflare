@@ -1,9 +1,3 @@
 name = "ecoinsight"
 compatibility_date = "2025-01-30"
-
-[site]
-bucket = "."
-entry-point = "."
-
-[build]
-command = "" 
+pages_build_output_dir = "." 
