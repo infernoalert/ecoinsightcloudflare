@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ecoSuite: Simplifying Energy Management in Buildings</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #F8F4E1;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px;
+            max-height: 400px;
+        }
+        @media (max-width: 768px) {
+            .chart-container {
+                height: 300px;
+            }
+        }
+        .gradient-text {
+            background: linear-gradient(90deg, #01949A, #004369);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .flow-arrow {
+            color: #01949A;
+            font-size: 2rem;
+            line-height: 1;
+        }
+        .kpi-card {
+            background-color: #E5DDC8;
+            border-left: 5px solid #01949A;
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8 max-w-7xl">
+
+        <header class="text-center my-12 md:my-16">
+            <h1 class="text-4xl md:text-6xl font-black text-[#004369] tracking-tight leading-tight">Closing the Building Energy Performance Gap</h1>
+            <p class="mt-4 text-lg md:text-xl text-[#004369] max-w-3xl mx-auto">We simplify energy management through practical EMS tools that combine automation, usability, and connectivity.</p>
+        </header>
+
+        <section id="problem" class="my-16 md:my-24">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-[#004369]">The Core Problem: A Disjointed & Inefficient Process</h2>
+                <p class="mt-2 text-md text-gray-600 max-w-2xl mx-auto">From design to operation, the building lifecycle is fragmented, leading to a costly gap between predicted and actual energy use.</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 items-center text-center gap-8 md:gap-4">
+                <div class="p-6 bg-white rounded-lg shadow-lg flex flex-col items-center">
+                    <div class="text-5xl text-[#DB1F48] mb-4">🏛️</div>
+                    <h3 class="text-xl font-bold text-[#004369]">1. Design Phase</h3>
+                    <p class="mt-2 text-gray-600">Compliance models are inaccurate, creating unrealistic performance expectations from day one.</p>
+                </div>
+                <div class="hidden md:block flow-arrow self-center transform rotate-90 md:rotate-0">→</div>
+                <div class="block md:hidden flow-arrow self-center transform rotate-90 md:rotate-0">↓</div>
+                <div class="p-6 bg-white rounded-lg shadow-lg flex flex-col items-center">
+                    <div class="text-5xl text-[#DB1F48] mb-4">🏗️</div>
+                    <h3 class="text-xl font-bold text-[#004369]">2. Construction Phase</h3>
+                    <p class="mt-2 text-gray-600">Poor workmanship and material substitution compromise the original energy-efficient design.</p>
+                </div>
+                <div class="hidden md:block flow-arrow self-center transform rotate-90 md:rotate-0">→</div>
+                <div class="block md:hidden flow-arrow self-center transform rotate-90 md:rotate-0">↓</div>
+                <div class="p-6 bg-white rounded-lg shadow-lg flex flex-col items-center">
+                    <div class="text-5xl text-[#DB1F48] mb-4">💡</div>
+                    <h3 class="text-xl font-bold text-[#004369]">3. Operational Phase</h3>
+                    <p class="mt-2 text-gray-600">System inefficiencies and occupant behavior cause energy use to spiral beyond design estimates.</p>
+                </div>
+            </div>
+            <div class="mt-12 p-8 kpi-card rounded-lg shadow-lg text-center">
+                <p class="text-2xl font-semibold text-[#004369]">Buildings can consume up to</p>
+                <p class="text-7xl md:text-8xl font-black gradient-text my-2">250%</p>
+                <p class="text-2xl font-semibold text-[#004369]">of their predicted energy, undermining financial and environmental goals.</p>
+            </div>
+        </section>
+
+        <section id="solution" class="my-16 md:my-24 bg-white rounded-xl shadow-2xl p-8 md:p-12">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-[#004369]">Our Solution: The ecoSuite Toolkit</h2>
+                <p class="mt-2 text-md text-gray-600 max-w-2xl mx-auto">An integrated, lifecycle-spanning solution that simplifies energy management from tender to billing.</p>
+            </div>
+            <div class="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-4">
+                <div class="text-center p-6 border-2 border-[#01949A] rounded-lg w-full md:w-1/3">
+                    <h3 class="text-2xl font-bold text-[#004369]">eco<span class="gradient-text">Design</span></h3>
+                    <p class="mt-2 text-gray-600 h-24">A compliant, complete metering solution with AI to simplify the process from tender to billing.</p>
+                </div>
+                <div class="text-2xl font-bold text-[#01949A] mx-4">+</div>
+                <div class="text-center p-6 border-2 border-[#01949A] rounded-lg w-full md:w-1/3">
+                    <h3 class="text-2xl font-bold text-[#004369]">eco<span class="gradient-text">Field</span></h3>
+                    <p class="mt-2 text-gray-600 h-24">A simplified, Excel-based interface for field deployment, ensuring design intent becomes reality.</p>
+                </div>
+                <div class="text-2xl font-bold text-[#01949A] mx-4">+</div>
+                 <div class="text-center p-6 border-2 border-[#01949A] rounded-lg w-full md:w-1/3">
+                    <h3 class="text-2xl font-bold text-[#004369]">eco<span class="gradient-text">IoT</span></h3>
+                    <p class="mt-2 text-gray-600 h-24">Real-time data streaming to the cloud for continuous monitoring and optimization.</p>
+                </div>
+            </div>
+        </section>
+
+
+        <section id="market" class="my-16 md:my-24">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-[#004369]">The Brisbane Opportunity: A Booming Market</h2>
+                <p class="mt-2 text-md text-gray-600 max-w-2xl mx-auto">Rapid growth and regulatory pressure create a prime market for innovative energy solutions.</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+                <div class="p-6 md:p-8 bg-white rounded-lg shadow-lg">
+                    <h3 class="text-xl font-bold text-center text-[#004369] mb-4">Projected Inner-Brisbane Apartment Shortfall (Next 4 Years)</h3>
+                    <div class="chart-container">
+                        <canvas id="brisbaneApartmentChart"></canvas>
+                    </div>
+                     <p class="mt-4 text-sm text-center text-gray-500">A significant supply-demand gap highlights the intense pace of construction, creating a large addressable market for the ecoSuite.</p>
+                </div>
+                <div class="space-y-8">
+                    <div class="p-8 kpi-card rounded-lg shadow-lg text-center">
+                        <p class="text-xl font-semibold text-[#004369]">Population Growth</p>
+                        <p class="text-6xl font-black gradient-text my-1">+500,000</p>
+                        <p class="text-xl font-semibold text-[#004369]">in the next decade</p>
+                    </div>
+                    <div class="p-8 kpi-card rounded-lg shadow-lg text-center">
+                        <p class="text-xl font-semibold text-[#004369]">Primary Target Market</p>
+                        <p class="text-5xl font-black gradient-text my-1">8+ Level</p>
+                        <p class="text-xl font-semibold text-[#004369]">Residential & Commercial</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="adoption" class="my-16 md:my-24">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-[#004369]">Barriers vs. Triggers to Adoption</h2>
+                <p class="mt-2 text-md text-gray-600 max-w-2xl mx-auto">Understanding what holds companies back and what pushes them forward is key to our strategy.</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="p-6 md:p-8 bg-white rounded-lg shadow-lg">
+                    <h3 class="text-xl font-bold text-center text-[#004369] mb-4">Why Building Owners Don't Invest in Efficiency</h3>
+                     <div class="chart-container">
+                        <canvas id="barriersChart"></canvas>
+                    </div>
+                    <p class="mt-4 text-sm text-center text-gray-500">The primary challenges are organizational priorities and a failure to see a clear business case, not a lack of awareness.</p>
+                </div>
+                <div class="p-6 md:p-8 bg-[#004369] text-white rounded-lg shadow-lg">
+                     <h3 class="text-xl font-bold text-center text-white mb-6">How We Trigger Adoption</h3>
+                     <div class="space-y-6">
+                        <div class="flex items-start">
+                            <div class="text-2xl mr-4 text-[#01949A]">✅</div>
+                            <div>
+                                <h4 class="font-bold">Regulatory Compliance (NCC)</h4>
+                                <p class="text-gray-300">Position ecoDesign & ecoField as tools to de-risk and streamline mandatory energy efficiency reporting.</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start">
+                             <div class="text-2xl mr-4 text-[#01949A]">⭐</div>
+                            <div>
+                                <h4 class="font-bold">Market Leadership (NABERS)</h4>
+                                <p class="text-gray-300">Market ecoIoT as a direct, data-driven pathway to improving a building's valuable NABERS rating.</p>
+                            </div>
+                        </div>
+                         <div class="flex items-start">
+                             <div class="text-2xl mr-4 text-[#01949A]">🏆</div>
+                            <div>
+                                <h4 class="font-bold">Empower Internal Champions</h4>
+                                <p class="text-gray-300">Provide the hard data and clear ROI needed for Facility Managers to win budget and drive change.</p>
+                            </div>
+                        </div>
+                     </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="call-to-action" class="my-16 md:my-24 text-center">
+            <div class="bg-white rounded-xl shadow-2xl p-8 md:p-16">
+                 <h2 class="text-3xl md:text-4xl font-bold text-[#004369]">Become a Founding Partner</h2>
+                 <p class="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">We are seeking innovative developers, builders, and facility managers for our initial pilot program. Partner with us to shape the future of energy management and gain a competitive edge.</p>
+                 <div class="mt-8">
+                    <a href="mailto:your-email@example.com?subject=ecoSuite%20Pilot%20Program%20Inquiry" class="bg-[#DB1F48] text-white font-bold py-4 px-8 rounded-lg text-lg hover:bg-opacity-90 transition-all shadow-lg">Inquire About Our Pilot Program</a>
+                 </div>
+            </div>
+        </section>
+
+        <footer class="text-center py-8 border-t border-gray-300">
+            <p class="text-sm text-gray-500">&copy; 2025 ecoSuite. All Rights Reserved. Simplifying Energy Management.</p>
+        </footer>
+
+    </div>
+
+    <script>
+        const tooltipTitleCallback = (tooltipItems) => {
+            const item = tooltipItems[0];
+            let label = item.chart.data.labels[item.dataIndex];
+            if (Array.isArray(label)) {
+                return label.join(' ');
+            }
+            return label;
+        };
+
+        const wrapLabel = (label, maxWidth) => {
+            const words = label.split(' ');
+            let lines = [];
+            let currentLine = words[0];
+
+            for (let i = 1; i < words.length; i++) {
+                if ((currentLine + ' ' + words[i]).length > maxWidth) {
+                    lines.push(currentLine);
+                    currentLine = words[i];
+                } else {
+                    currentLine += ' ' + words[i];
+                }
+            }
+            lines.push(currentLine);
+            return lines;
+        };
+        
+        const palette = {
+            darkBlue: '#004369',
+            teal: '#01949A',
+            red: '#DB1F48',
+            beige: '#E5DDC8',
+            offWhite: '#F8F4E1'
+        };
+
+        const brisbaneApartmentData = {
+            labels: ['Projected Demand', 'Projected Supply'],
+            datasets: [{
+                label: 'Number of Apartments',
+                data: [19400, 5400],
+                backgroundColor: [palette.teal, palette.red],
+                borderColor: [palette.teal, palette.red],
+                borderWidth: 1
+            }]
+        };
+
+        const brisbaneApartmentChartCtx = document.getElementById('brisbaneApartmentChart').getContext('2d');
+        new Chart(brisbaneApartmentChartCtx, {
+            type: 'bar',
+            data: brisbaneApartmentData,
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            color: palette.darkBlue
+                        },
+                        grid: {
+                            color: 'rgba(0, 67, 105, 0.1)'
+                        }
+                    },
+                    x: {
+                         ticks: {
+                            color: palette.darkBlue
+                        },
+                         grid: {
+                            display: false
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        callbacks: {
+                            title: tooltipTitleCallback
+                        }
+                    }
+                }
+            }
+        });
+
+        const barriersData = {
+            labels: [
+                wrapLabel('Considered a low priority', 16), 
+                wrapLabel('Improvements too costly', 16), 
+                wrapLabel("Don't know what to change", 16),
+                'Other'
+                ],
+            datasets: [{
+                label: 'Barriers to Investment',
+                data: [31, 24, 14, 31],
+                backgroundColor: [palette.darkBlue, palette.red, palette.teal, palette.beige],
+                hoverOffset: 4
+            }]
+        };
+
+        const barriersChartCtx = document.getElementById('barriersChart').getContext('2d');
+        new Chart(barriersChartCtx, {
+            type: 'doughnut',
+            data: barriersData,
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            color: palette.darkBlue,
+                            font: {
+                                size: 12
+                            },
+                             boxWidth: 20
+                        }
+                    },
+                     tooltip: {
+                        callbacks: {
+                            title: tooltipTitleCallback
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
