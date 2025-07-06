@@ -12,6 +12,11 @@
     <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64," />
 
     <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+    </style>
   </head>
   <body>
     <div class="relative flex size-full min-h-screen flex-col bg-[#f9fbf9] group/design-root overflow-x-hidden" style='font-family: Manrope, "Noto Sans", sans-serif;'>
@@ -24,7 +29,7 @@
             <h2 class="text-[#121810] text-lg font-bold leading-tight tracking-[-0.015em]">EcoInsight</h2>
           </div>
           <div class="flex flex-1 justify-end gap-8">
-            <div class="flex items-center gap-9"><a class="text-[#121810] text-sm font-medium leading-normal" href="#">Contact</a></div>
+            <div class="flex items-center gap-9"><a class="text-[#121810] text-sm font-medium leading-normal" href="#book-session">Contact</a></div>
           </div>
         </header>
         <div class="px-40 flex flex-1 justify-center py-5">
@@ -117,12 +122,15 @@
               We're inviting industry experts to participate in 30-minute feedback sessions to help shape the future of energy measurement. Your insights are invaluable in our
               mission to bridge the 'Building Energy Gap.'
             </p>
-            <div class="flex px-4 py-3 justify-center">
-              <button
-                class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-full h-10 px-4 bg-[#8cd279] text-[#121810] text-sm font-bold leading-normal tracking-[0.015em]"
+            <div id="book-session" class="flex px-4 py-3 justify-center">
+              <a
+                href="https://calendly.com/payamamerian"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-full h-10 px-4 bg-[#8cd279] text-[#121810] text-sm font-bold leading-normal tracking-[0.015em] no-underline hover:bg-[#7bc268] transition-colors"
               >
                 <span class="truncate">Book a Session</span>
-              </button>
+              </a>
             </div>
             <p class="text-[#668a5c] text-sm font-normal leading-normal pb-3 pt-1 px-4 text-center">Connect with us on LinkedIn or email us at contact@ecoinsight.com</p>
           </div>
@@ -131,7 +139,14 @@
           <div class="flex max-w-[960px] flex-1 flex-col">
             <footer class="flex flex-col gap-6 px-5 py-10 text-center @container">
               <div class="flex flex-wrap justify-center gap-4">
-                <a href="#">
+                <a href="mailto:payamamerian@ecoinsight.com.au">
+                  <div class="text-[#668a5c]" data-icon="Envelope" data-size="24px" data-weight="regular">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
+                      <path d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"></path>
+                    </svg>
+                  </div>
+                </a>
+                <a href="https://www.linkedin.com/in/payamamerian" target="_blank" rel="noopener noreferrer">
                   <div class="text-[#668a5c]" data-icon="LinkedinLogo" data-size="24px" data-weight="regular">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
                       <path
