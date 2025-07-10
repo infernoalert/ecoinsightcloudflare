@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="504"
+   height="703"
+   viewBox="0 0 504 703"
+   style="fill:none;stroke:none;fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"
+   version="1.1"
+   id="svg47"
+   sodipodi:docname="ModularToolkit.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs47" />
+  <sodipodi:namedview
+     id="namedview47"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1194879"
+     inkscape:cx="251.90089"
+     inkscape:cy="494.42249"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="3191"
+     inkscape:window-y="540"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg47" />
+  <style
+     class="text-font-style fontImports"
+     data-font-family="Shantell Sans"
+     id="style1">@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300..800&amp;display=block');</style>
+  <g
+     id="items"
+     style="isolation: isolate">
+    <g
+       id="blend"
+       style="mix-blend-mode: normal">
+      <g
+         id="g-root-cp_-1_Frame_645_1d30z7ttgr9xd-fill"
+         data-item-order="-276322"
+         transform="translate(50, 200)">
+        <g
+           id="cp_-1_Frame_645_1d30z7ttgr9xd-fill"
+           stroke="none"
+           fill="#ebebeb">
+          <g
+             id="g1">
+            <path
+               d="M 202 28C 202 18.0589 159.0193 10 106 10C 52.9807 10 10 18.0589 10 28C 10 44.775 10 35.225 10 52C 10 61.9411 52.9807 70 106 70C 159.0193 70 202 61.9411 202 52C 202 35.225 202 44.775 202 28Z"
+               id="path1" />
+          </g>
+        </g>
+        <g
+           id="g3"
+           stroke="none"
+           fill="#ebebeb">
+          <g
+             id="g2">
+            <path
+               d="M 10 28C 10.000003 37.941126 52.980667 46 106.000003 46C 159.019339 46 202.000003 37.941126 202.000003 28C 202.000003 18.058875 159.019339 10 106.000003 10C 52.980667 10 10.000003 18.058875 10.000003 28"
+               id="path2" />
+          </g>
+        </g>
+        <g
+           id="g5"
+           stroke="none"
+           fill="#ebebeb">
+          <g
+             id="g4">
+            <path
+               d="M 70 28C 70 31.866 86.1177 35 106 35C 125.8823 35 142 31.866 142 28L 142 17C 142 13.134 125.8823 10 106 10C 86.1177 10 70 13.134 70 17L 70 28Z"
+               id="path3" />
+          </g>
+        </g>
+        <g
+           id="g7"
+           stroke="none"
+           fill="#ebebeb">
+          <g
+             id="g6">
+            <path
+               d="M 142 17C 142 13.134 125.8823 10 106 10C 86.1177 10 70 13.134 70 17C 70 20.866 86.1177 24 106 24C 125.8823 24 142 20.866 142 17Z"
+               id="path5" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_3_bubble-3_zs6xxltgr8cl-fill"
+         data-item-order="-276310"
+         transform="translate(50, 242)">
+        <g
+           id="cp_3_bubble-3_zs6xxltgr8cl-fill"
+           stroke="none"
+           fill="#c8ffe5">
+          <g
+             id="g8">
+            <path
+               d="M 10 10L 10 58L 202 58L 202 10C 202 19.9411 159.0193 28 106 28C 52.9807 28 10 19.9411 10 10ZM 10 118L 10 70L 202 70L 202 118C 202 127.9411 159.0193 136 106 136C 52.9807 136 10 127.9411 10 118ZM 202 70L 202 58L 10 58L 10 70L 202 70Z"
+               id="path7" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_3_bubble-3_1_dbqb0ptgsm4v-fill"
+         data-item-order="-276290"
+         transform="translate(242, 242)">
+        <g
+           id="cp_3_bubble-3_1_dbqb0ptgsm4v-fill"
+           stroke="none"
+           fill="#c8ffe5">
+          <g
+             id="g9">
+            <path
+               d="M 202 58L 10 58C 10.000001 31.4903 10 10 10 10L 202 10L 202 58ZM 202 70L 202 58L 10 58L 10 70L 202 70ZM 10 118L 10 70L 202 70L 202 118L 10 118Z"
+               id="path8" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_2_bubble-2_4g3arttgsnpd-fill"
+         data-item-order="-276264"
+         transform="translate(50, 350.00006103515625)">
+        <g
+           id="cp_2_bubble-2_4g3arttgsnpd-fill"
+           stroke="none"
+           fill="#ffe4cb">
+          <g
+             id="g10">
+            <path
+               d="M 10 10L 10 58L 202 58L 202 10C 202 19.9411 159.0193 28 106 28C 52.9807 28 10 19.9411 10 10ZM 10 118L 10 70L 202 70L 202 118C 202 127.9411 159.0193 136 106 136C 52.9807 136 10 127.9411 10 118ZM 202 70L 202 58L 10 58L 10 70L 202 70Z"
+               id="path9" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_2_bubble-2_1_13z9suhtgsoaz-fill"
+         data-item-order="-276244"
+         transform="translate(242, 350.00006103515625)">
+        <g
+           id="cp_2_bubble-2_1_13z9suhtgsoaz-fill"
+           stroke="none"
+           fill="#ffe4cb">
+          <g
+             id="g11">
+            <path
+               d="M 202 58L 10 58C 10.000001 31.4903 10 10 10 10L 202 10L 202 58ZM 202 70L 202 58L 10 58L 10 70L 202 70ZM 10 118L 10 70L 202 70L 202 118L 10 118Z"
+               id="path10" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_1_bubble-1_qofrk9tgsmq5-fill"
+         data-item-order="-276220"
+         transform="translate(50, 458.00006103515625)">
+        <g
+           id="cp_1_bubble-1_qofrk9tgsmq5-fill"
+           stroke="none"
+           fill="#fff8b6">
+          <g
+             id="g12">
+            <path
+               d="M 10 10L 10 58L 202 58L 202 10C 202 19.9411 159.0193 28 106 28C 52.9807 28 10 19.9411 10 10ZM 10 130L 10 82L 202 82L 202 130C 202 139.9411 159.0193 148 106 148C 52.9807 148 10 139.9411 10 130ZM 202 82L 202 58L 10 58L 10 82L 202 82Z"
+               id="path11" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_1_bubble-1_1_dcz96xtgsob3-fill"
+         data-item-order="-276200"
+         transform="translate(242, 458.00006103515625)">
+        <g
+           id="cp_1_bubble-1_1_dcz96xtgsob3-fill"
+           stroke="none"
+           fill="#fff8b6">
+          <g
+             id="g13">
+            <path
+               d="M 202 58L 10 58C 10.000001 31.4903 10 10 10 10L 202 10L 202 58ZM 202 82L 202 58L 10 58L 10 82L 202 82ZM 10 130L 10 82L 202 82L 202 130L 10 130Z"
+               id="path12" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_-1_bottom_4hyq15tgsmpt-fill"
+         data-item-order="-276178"
+         transform="translate(50, 578.0000610351562)">
+        <g
+           id="cp_-1_bottom_4hyq15tgsmpt-fill"
+           stroke="none"
+           fill="#ebebeb">
+          <g
+             id="g14">
+            <path
+               d="M 106 52C 52.9807 52 10 43.9411 10 34L 10 10C 10 19.9411 52.9807 28 106 28C 159.0193 28 202 19.9411 202 10L 202 34C 202 43.9411 159.0193 52 106 52ZM 202 10C 202 26.775 202 17.225 202 34M 10 10C 10 26.775 10 17.225 10 34"
+               id="path13" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-tx_energype_1unfrrdtgsnbf-fill"
+         data-item-order="0"
+         transform="translate(20, 38)">
+        <g
+           id="tx_energype_1unfrrdtgsnbf-fill"
+           stroke="none"
+           fill="#484848">
+          <g
+             id="g15">
+            <text
+               style="font: bold 25px &quot;Shantell Sans&quot;, cursive; white-space: pre;"
+               font-weight="bold"
+               font-size="25px"
+               font-family="'Shantell Sans', cursive"
+               id="text15"><tspan
+                 x="14.17"
+                 y="41.25"
+                 dominant-baseline="ideographic"
+                 id="tspan14">Energy performance tools range </tspan><tspan
+                 x="51.16"
+                 y="71.25"
+                 dominant-baseline="ideographic"
+                 id="tspan15">from design to monitoring.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-tx_building_1cws8cptgsmis-fill"
+         data-item-order="0"
+         transform="translate(302, 146)">
+        <g
+           id="tx_building_1cws8cptgsmis-fill"
+           stroke="none"
+           fill="#484848">
+          <g
+             id="g18">
+            <text
+               style="font: bold 20px &quot;Shantell Sans&quot;, cursive; white-space: pre;"
+               font-weight="bold"
+               font-size="20px"
+               font-family="'Shantell Sans', cursive"
+               id="text18"><tspan
+                 x="18.97"
+                 y="35"
+                 dominant-baseline="ideographic"
+                 id="tspan16">Building </tspan><tspan
+                 x="16.71"
+                 y="59"
+                 dominant-baseline="ideographic"
+                 id="tspan17">Lifecycle </tspan><tspan
+                 x="30.73"
+                 y="83"
+                 dominant-baseline="ideographic"
+                 id="tspan18">Stage</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-tx_provides_8z16bttgso3q-fill"
+         data-item-order="0"
+         transform="translate(254, 266)">
+        <g
+           id="tx_provides_8z16bttgso3q-fill"
+           stroke="none"
+           fill="#484848">
+          <g
+             id="g21">
+            <text
+               style="font: 15px &quot;Shantell Sans&quot;, cursive; white-space: pre;"
+               font-size="15px"
+               font-family="'Shantell Sans', cursive"
+               id="text21"><tspan
+                 x="41.32"
+                 y="31.74"
+                 dominant-baseline="ideographic"
+                 id="tspan19">Provides user-</tspan><tspan
+                 x="16.87"
+                 y="49.75"
+                 dominant-baseline="ideographic"
+                 id="tspan20">friendly performance </tspan><tspan
+                 x="64.37"
+                 y="67.76"
+                 dominant-baseline="ideographic"
+                 id="tspan21">insights</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-tx_clearclo_mahop5tgsmit-fill"
+         data-item-order="0"
+         transform="translate(80, 284)">
+        <g
+           id="tx_clearclo_mahop5tgsmit-fill"
+           stroke="none"
+           fill="#484848">
+          <g
+             id="g23">
+            <text
+               style="font: 20px &quot;Shantell Sans&quot;, cursive; white-space: pre;"
+               font-size="20px"
+               font-family="'Shantell Sans', cursive"
+               id="text23"><tspan
+                 x="16.68"
+                 y="35"
+                 dominant-baseline="ideographic"
+                 id="tspan22">Clear Cloud </tspan><tspan
+                 x="19.01"
+                 y="59"
+                 dominant-baseline="ideographic"
+                 id="tspan23">Monitoring</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-tx_streamli_zn758ptgsn40-fill"
+         data-item-order="0"
+         transform="translate(260, 374.00006103515625)">
+        <g
+           id="tx_streamli_zn758ptgsn40-fill"
+           stroke="none"
+           fill="#484848">
+          <g
+             id="g26">
+            <text
+               style="font: 15px &quot;Shantell Sans&quot;, cursive; white-space: pre;"
+               font-size="15px"
+               font-family="'Shantell Sans', cursive"
+               id="text26"><tspan
+                 x="16.83"
+                 y="31.74"
+                 dominant-baseline="ideographic"
+                 id="tspan24">Streamlines on-site </tspan><tspan
+                 x="65.38"
+                 y="49.75"
+                 dominant-baseline="ideographic"
+                 id="tspan25">meter </tspan><tspan
+                 x="32.38"
+                 y="67.76"
+                 dominant-baseline="ideographic"
+                 id="tspan26">communication</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-tx_simpleon_1hduondtgsnwn-fill"
+         data-item-order="0"
+         transform="translate(68, 392.00006103515625)">
+        <g
+           id="tx_simpleon_1hduondtgsnwn-fill"
+           stroke="none"
+           fill="#484848">
+          <g
+             id="g28">
+            <text
+               style="font: 20px &quot;Shantell Sans&quot;, cursive; white-space: pre;"
+               font-size="20px"
+               font-family="'Shantell Sans', cursive"
+               id="text28"><tspan
+                 x="16.77"
+                 y="35"
+                 dominant-baseline="ideographic"
+                 id="tspan27">Simple On-Site </tspan><tspan
+                 x="64.93"
+                 y="59"
+                 dominant-baseline="ideographic"
+                 id="tspan28">EMS</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-tx_automate_1uqk56xtgsohu-fill"
+         data-item-order="0"
+         transform="translate(266, 482.00006103515625)">
+        <g
+           id="tx_automate_1uqk56xtgsohu-fill"
+           stroke="none"
+           fill="#484848">
+          <g
+             id="g32">
+            <text
+               style="font: 15px &quot;Shantell Sans&quot;, cursive; white-space: pre;"
+               font-size="15px"
+               font-family="'Shantell Sans', cursive"
+               id="text32"><tspan
+                 x="40.37"
+                 y="28.74"
+                 dominant-baseline="ideographic"
+                 id="tspan29">Automates </tspan><tspan
+                 x="44.08"
+                 y="46.75"
+                 dominant-baseline="ideographic"
+                 id="tspan30">compliant </tspan><tspan
+                 x="14.41"
+                 y="64.75"
+                 dominant-baseline="ideographic"
+                 id="tspan31">metering network </tspan><tspan
+                 x="56.01"
+                 y="82.76"
+                 dominant-baseline="ideographic"
+                 id="tspan32">design</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-tx_aiformet_dgq3pltgsmbt-fill"
+         data-item-order="0"
+         transform="translate(86, 518.0000610351562)">
+        <g
+           id="tx_aiformet_dgq3pltgsmbt-fill"
+           stroke="none"
+           fill="#484848">
+          <g
+             id="g33">
+            <text
+               style="font: 15px &quot;Shantell Sans&quot;, cursive; white-space: pre;"
+               font-size="15px"
+               font-family="'Shantell Sans', cursive"
+               id="text33"><tspan
+                 x="12.18"
+                 y="31.75"
+                 dominant-baseline="ideographic"
+                 id="tspan33">AI for Metering</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_-1_Frame_645_1d30z7ttgr9xd-stroke"
+         data-item-order="-276322"
+         transform="translate(50, 200)">
+        <g
+           id="cp_-1_Frame_645_1d30z7ttgr9xd-stroke"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g34">
+            <path
+               d="M 202 28C 202 18.0589 159.0193 10 106 10C 52.9807 10 10 18.0589 10 28C 10 44.775 10 35.225 10 52C 10 61.9411 52.9807 70 106 70C 159.0193 70 202 61.9411 202 52C 202 35.225 202 44.775 202 28Z"
+               id="path33" />
+          </g>
+        </g>
+        <g
+           id="g36"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g35">
+            <path
+               d="M 10 28C 10.000003 37.941126 52.980667 46 106.000003 46C 159.019339 46 202.000003 37.941126 202.000003 28C 202.000003 18.058875 159.019339 10 106.000003 10C 52.980667 10 10.000003 18.058875 10.000003 28"
+               id="path34" />
+          </g>
+        </g>
+        <g
+           id="g38"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g37">
+            <path
+               d="M 70 28C 70 31.866 86.1177 35 106 35C 125.8823 35 142 31.866 142 28L 142 17C 142 13.134 125.8823 10 106 10C 86.1177 10 70 13.134 70 17L 70 28Z"
+               id="path36" />
+          </g>
+        </g>
+        <g
+           id="g40"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g39">
+            <path
+               d="M 142 17C 142 13.134 125.8823 10 106 10C 86.1177 10 70 13.134 70 17C 70 20.866 86.1177 24 106 24C 125.8823 24 142 20.866 142 17Z"
+               id="path38" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_3_bubble-3_zs6xxltgr8cl-stroke"
+         data-item-order="-276310"
+         transform="translate(50, 242)">
+        <g
+           id="cp_3_bubble-3_zs6xxltgr8cl-stroke"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g41">
+            <path
+               d="M 202 70L 202 58M 10 70L 10 58M 10 70L 10 118C 10 127.9411 52.9807 136 106 136C 159.0193 136 202 127.9411 202 118L 202 70M 10 58L 10 10C 10 19.9411 52.9807 28 106 28C 159.0193 28 202 19.9411 202 10L 202 58"
+               id="path40" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_3_bubble-3_1_dbqb0ptgsm4v-stroke"
+         data-item-order="-276290"
+         transform="translate(242, 242)">
+        <g
+           id="cp_3_bubble-3_1_dbqb0ptgsm4v-stroke"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g42">
+            <path
+               d="M 202 58L 202 10.0001L 10.0001 10L 10 57.9999M 202 70L 202 58M 10 70L 10 58M 10 70L 10 118L 202 118L 202 70"
+               id="path41" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_2_bubble-2_4g3arttgsnpd-stroke"
+         data-item-order="-276264"
+         transform="translate(50, 350.00006103515625)">
+        <g
+           id="cp_2_bubble-2_4g3arttgsnpd-stroke"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g43">
+            <path
+               d="M 202 70L 202 58M 10 70L 10 58M 10 70L 10 118C 10 127.9411 52.9807 136 106 136C 159.0193 136 202 127.9411 202 118L 202 70M 10 58L 10 10C 10 19.9411 52.9807 28 106 28C 159.0193 28 202 19.9411 202 10L 202 58"
+               id="path42" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_2_bubble-2_1_13z9suhtgsoaz-stroke"
+         data-item-order="-276244"
+         transform="translate(242, 350.00006103515625)">
+        <g
+           id="cp_2_bubble-2_1_13z9suhtgsoaz-stroke"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g44">
+            <path
+               d="M 202 58L 202 10.0001L 10.0001 10L 10 57.9999M 202 70L 202 58M 10 70L 10 58M 10 70L 10 118L 202 118L 202 70"
+               id="path43" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_1_bubble-1_qofrk9tgsmq5-stroke"
+         data-item-order="-276220"
+         transform="translate(50, 458.00006103515625)">
+        <g
+           id="cp_1_bubble-1_qofrk9tgsmq5-stroke"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g45">
+            <path
+               d="M 202 82L 202 58M 10 82L 10 58M 10 82L 10 130C 10 139.9411 52.9807 148 106 148C 159.0193 148 202 139.9411 202 130L 202 82M 10 58L 10 10C 10 19.9411 52.9807 28 106 28C 159.0193 28 202 19.9411 202 10L 202 58"
+               id="path44" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_1_bubble-1_1_dcz96xtgsob3-stroke"
+         data-item-order="-276200"
+         transform="translate(242, 458.00006103515625)">
+        <g
+           id="cp_1_bubble-1_1_dcz96xtgsob3-stroke"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g46">
+            <path
+               d="M 202 58L 202 10.0001L 10.0001 10L 10 57.9999M 202 82L 202 58M 10 82L 10 58M 10 82L 10 130L 202 130L 202 82"
+               id="path45" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-cp_-1_bottom_4hyq15tgsmpt-stroke"
+         data-item-order="-276178"
+         transform="translate(50, 578.0000610351562)">
+        <g
+           id="cp_-1_bottom_4hyq15tgsmpt-stroke"
+           fill="none"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke="#ffffff"
+           stroke-width="2">
+          <g
+             id="g47">
+            <path
+               d="M 106 52C 52.9807 52 10 43.9411 10 34L 10 10C 10 19.9411 52.9807 28 106 28C 159.0193 28 202 19.9411 202 10L 202 34C 202 43.9411 159.0193 52 106 52ZM 202 10C 202 26.775 202 17.225 202 34M 10 10C 10 26.775 10 17.225 10 34"
+               id="path46" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g-root-tx_energype_1unfrrdtgsnbf-stroke"
+         data-item-order="0"
+         transform="translate(20, 38)" />
+      <g
+         id="g-root-tx_building_1cws8cptgsmis-stroke"
+         data-item-order="0"
+         transform="translate(302, 146)" />
+      <g
+         id="g-root-tx_provides_8z16bttgso3q-stroke"
+         data-item-order="0"
+         transform="translate(254, 266)" />
+      <g
+         id="g-root-tx_clearclo_mahop5tgsmit-stroke"
+         data-item-order="0"
+         transform="translate(80, 284)" />
+      <g
+         id="g-root-tx_streamli_zn758ptgsn40-stroke"
+         data-item-order="0"
+         transform="translate(260, 374.00006103515625)" />
+      <g
+         id="g-root-tx_simpleon_1hduondtgsnwn-stroke"
+         data-item-order="0"
+         transform="translate(68, 392.00006103515625)" />
+      <g
+         id="g-root-tx_automate_1uqk56xtgsohu-stroke"
+         data-item-order="0"
+         transform="translate(266, 482.00006103515625)" />
+      <g
+         id="g-root-tx_aiformet_dgq3pltgsmbt-stroke"
+         data-item-order="0"
+         transform="translate(86, 518.0000610351562)" />
+    </g>
+  </g>
+</svg>
